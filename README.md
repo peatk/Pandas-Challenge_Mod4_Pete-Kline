@@ -1,4 +1,4 @@
-# Pandas-Challenge_Mod4_Pete-Kline
+# Pandas / Jupyter Notebook
 
 
 ## Background
